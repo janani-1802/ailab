@@ -1,2 +1,0 @@
-# ailab
-Artificial intelligence laboratory 
